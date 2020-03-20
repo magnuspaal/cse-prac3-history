@@ -1,0 +1,4 @@
+1. There are a total of 11 commits.
+2. The last commit was made March 20 14:21:18 2018
+3. The author is Stepan Bolotnikov
+4. There doesn’t seem to be a commit with such a hash.
